@@ -18,8 +18,8 @@ h2{ font-size: 25px;
     width: 100%;
 }
 .top{
-  
     background-image: url("images/header-bg.png");
+   
    
 }
 .middle{
@@ -27,7 +27,7 @@ h2{ font-size: 25px;
   background-image: url("images/footer-bg.png");
 }
 section{
-    height: 500px;
+    height: 600px;
     padding-bottom: 300px;
     
 }
